@@ -1,0 +1,10 @@
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\bin\Debug\netcoreapp2.0\AttendanceWebAppSimple.deps.json
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\bin\Debug\netcoreapp2.0\AttendanceWebAppSimple.runtimeconfig.json
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\bin\Debug\netcoreapp2.0\AttendanceWebAppSimple.runtimeconfig.dev.json
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\bin\Debug\netcoreapp2.0\AttendanceWebAppSimple.dll
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\bin\Debug\netcoreapp2.0\AttendanceWebAppSimple.pdb
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\obj\Debug\netcoreapp2.0\AttendanceWebAppSimple.csproj.CoreCompileInputs.cache
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\obj\Debug\netcoreapp2.0\AttendanceWebAppSimple.AssemblyInfoInputs.cache
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\obj\Debug\netcoreapp2.0\AttendanceWebAppSimple.AssemblyInfo.cs
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\obj\Debug\netcoreapp2.0\AttendanceWebAppSimple.dll
+C:\Users\Hawk\Documents\Project\AttendanceWebApp\AttendanceWebAppSimple\obj\Debug\netcoreapp2.0\AttendanceWebAppSimple.pdb
